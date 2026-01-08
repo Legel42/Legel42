@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hey, moi c'est Legel42 👋
 
-<!--
-**Legel42/Legel42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je crée des sites web professionnels pour PME et OBNL, et je partage des outils open source avec la communauté.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Ce que je fais
+
+- 💼 **Développement Web** — Sites propres, rapides, professionnels
+- 🛠️ **Open Source** — Outils et scripts gratuits pour tous
+- 🎯 **Freelance** — Disponible pour vos projets
+
+---
+
+### 🔗 Mon site
+
+🌐 [angelvirion.com](https://angelvirion.com)
+
+---
+
+<p align="center">
+  <i>Passionné d'open source • Je build des trucs cool • Toujours en apprentissage</i>
+</p>
+
+---
+
+<details>
+<summary>🇬🇧 <b>English Version</b></summary>
+
+<br>
+
+# Hey, I'm Legel42 👋
+
+I build professional websites for small businesses and non-profits, and I share open source tools with the community.
+
+---
+
+### 🚀 What I do
+
+- 💼 **Web Development** — Clean, fast, professional websites
+- 🛠️ **Open Source** — Free tools and scripts for everyone
+- 🎯 **Freelance** — Available for projects
+
+---
+
+### 🔗 My website
+
+🌐 [angelvirion.com](https://angelvirion.com)
+
+---
+
+<p align="center">
+  <i>Open source enthusiast • Building cool stuff • Always learning</i>
+</p>
+
+</details>
