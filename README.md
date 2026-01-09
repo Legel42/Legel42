@@ -1,26 +1,20 @@
-# Hey, moi c'est Legel42 👋
+# Moi c'est Legel42 
 
-Je crée des sites web professionnels pour PME et OBNL, et je partage des outils open source avec la communauté.
-
----
-
-### 🚀 Ce que je fais
-
-- 💼 **Développement Web** — Sites propres, rapides, professionnels
-- 🛠️ **Open Source** — Outils et scripts gratuits pour tous
-- 🎯 **Freelance** — Disponible pour vos projets
+Je crée des sites web pour OBNL et autoentrepreuneurs (One pager ou sur demande). Et je partage quelques scripts.
 
 ---
 
-### 🔗 Mon site
+### Ce que je fais
+
+-  **Développement Web** — Sites propres, rapides, professionnels
+-  **Open Source** — Outils et scripts gratuits pour tous
+-  **Freelance** — Disponible pour vos projets
+
+---
+
+### Mon site
 
 🌐 [angelvirion.com](https://angelvirion.com)
-
----
-
-<p align="center">
-  <i>Passionné d'open source • Je build des trucs cool • Toujours en apprentissage</i>
-</p>
 
 ---
 
@@ -29,28 +23,24 @@ Je crée des sites web professionnels pour PME et OBNL, et je partage des outils
 
 <br>
 
-# Hey, I'm Legel42 👋
+# I'm Legel42
 
-I build professional websites for small businesses and non-profits, and I share open source tools with the community.
+I build websites for non profits organisations and freelancers
+---
+
+### What I do
+
+-  **Web Development** — Clean, fast, professional websites
+-  **Open Source** — Free tools and scripts for everyone
+-  **Freelance** — Available for projects
 
 ---
 
-### 🚀 What I do
-
-- 💼 **Web Development** — Clean, fast, professional websites
-- 🛠️ **Open Source** — Free tools and scripts for everyone
-- 🎯 **Freelance** — Available for projects
-
----
-
-### 🔗 My website
+### My website
 
 🌐 [angelvirion.com](https://angelvirion.com)
 
 ---
 
-<p align="center">
-  <i>Open source enthusiast • Building cool stuff • Always learning</i>
-</p>
 
 </details>
